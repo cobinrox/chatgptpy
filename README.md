@@ -13,6 +13,7 @@ git clone git@github.com:cobinrox/chatgptpy.git
 `cd chatgptpy`  
 `pip3 install openai`  
 IMPORTANT!! Copy your OpenAI key into the `.env` file 
+(For now) Edit the chat.py and enter the question you want to ask (sorry isn't very interactive yet)
 
 ## To Execute
 python3 chat.py 
